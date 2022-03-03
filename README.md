@@ -10,6 +10,10 @@ Transform doccano JSONL to the format expected by AutoML
 
 ## Use
 
+```bash
+go run main.go doccano.jsonl -o autolm.jsonl
+```
+
 ## Authors
 
 - [Ivan Stasiuk](https://github.com/brokeyourbike) | [Twitter](https://twitter.com/brokeyourbike) | [stasi.uk](https://stasi.uk)
